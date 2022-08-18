@@ -1,6 +1,4 @@
-### Hi there 👋
-
-This read-me is under construction.
+### I love free/libre open-source software!
 
 <!--
 **bell-kevin/bell-kevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
