@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kevin Bell</h1>
 <h3 align="center">I'm a student!</h3>
 
-- 🔭 I’m currently working on [plane-notify](https://github.com/Jxck-S/plane-notify)
+- 🔭 I’m currently working on [school](https://davisTech.edu)
 
-- 🤝 I’m looking for help with [plane-notify](https://github.com/Jxck-S/plane-notify)
+- 🤝 I’m looking for help with [school](https://davisTech.edu)
 
 - 📫 How to reach me **jack@jackstech.net**
 
