@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with [school](https://davisTech.edu)
 
-- 📫 How to reach me **jack@jackstech.net**
+- 📫 How to reach me **bellKevin@pm.me**
 
 
 <h3 align="left">Languages and Tools:</h3>
