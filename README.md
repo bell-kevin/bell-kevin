@@ -27,10 +27,12 @@
 
 ### I love free/libre open-source software! Most JavaScript running on most websites (including GitHub.com) is NOT open-source software.
 
+
+<!--
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=bell-kevin">
 </a>
-
+-->
 
 
 
