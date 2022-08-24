@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kevin Bell</h1>
 <h3 align="center">I'm a student!</h3>
 
-- 🔭 I’m currently working on [school](https://davisTech.edu)
+- 🔨 I’m currently working on [school](https://davisTech.edu)
 
 - 🤝 I’m looking for help with [school](https://davisTech.edu)
 
 - 📫 How to reach me **bellKevin@pm.me**
+
+- 😄 Pronouns: He/Him
 
 
 <!--
