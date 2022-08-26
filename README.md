@@ -22,7 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bell-kevin&show_icons=true&locale=en" alt="bell-kevin" /></p>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bell-kevin)](https://git.io/streak-stats)
 
 
 ### I love free/libre open-source software! Most JavaScript running on most websites (including GitHub.com) is NOT open-source software.
