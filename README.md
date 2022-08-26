@@ -4,9 +4,9 @@
 - 🤝 I’m looking to collaborate on anything open-source
 
 - 🌱 I’m currently learning Java
-
-- 🔨 I’m currently working on [school](https://davisTech.edu)
 <!--
+- 🔨 I’m currently working on [school](https://davisTech.edu)
+
 - 🤝 I’m looking for help with [school](https://davisTech.edu)
 -->
 - 📫 How to reach me **bellKevin@pm.me**
