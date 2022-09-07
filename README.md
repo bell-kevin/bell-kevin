@@ -11,7 +11,7 @@
 -->
 - 📫 How to reach me **bellKevin@pm.me**
 
-- 😄 Pronouns: He/Him
+
 
 
 <!-- THIS CODE IS FROM JACK SWEENEY - JXCK SWEENEY
@@ -44,4 +44,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
 -->
