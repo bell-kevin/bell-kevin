@@ -3,7 +3,7 @@
 
 - 🤝 I’m looking to collaborate on almost anything open-source
 
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++
 <!--
 - 🔨 I’m currently working on [school](https://davisTech.edu)
 
