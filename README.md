@@ -25,8 +25,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bell-kevin)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bell-kevin&layout=compact&hide=c%2B%2B)](https://github.com/bell-kevin/github-readme-stats)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bell-kevin)](https://github.com/bell-kevin/github-readme-stats)
-
+-->
 
 ### I love free/libre open-source software! Most JavaScript running on most websites (including GitHub.com) is NOT open-source software.
 
