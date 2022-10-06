@@ -25,10 +25,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=bell-kevin&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
-<!--
+
 | <a href="https://github.com/bell-kevin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bell-kevin&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/bell-kevin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bell-kevin&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
--->
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bell-kevin&layout=compact&hide=c%2B%2B)](https://github.com/bell-kevin/github-readme-stats)
