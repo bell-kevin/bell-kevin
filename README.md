@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Bell</h1>
 <h3 align="center">I'm a student!</h3>
 
-- 🤝 I’m looking to collaborate on [twitter.com/shuttleworthJet](twitter.com/shuttleworthJet)
+- 🤝 I’m looking to collaborate on [twitter.com/shuttleworthJet](https://twitter.com/shuttleworthJet)
 
 - 🌱 I’m currently learning C++
 <!--
