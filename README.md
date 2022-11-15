@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Bell</h1>
 <h3 align="center">I'm a student!</h3>
 
-- 🤝 I’m looking to collaborate on tracking aircraft, like [nitter.net/CopelandJets](https://nitter.net/CopelandJets)
+- 🤝 I’m looking to collaborate on almost anything open-source. Recently I'm into tracking aircraft, like [nitter.net/CopelandJets](https://nitter.net/CopelandJets)
 
 - 🌱 I’m currently learning C++
 <!--
