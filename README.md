@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Kevin Bell</h1>
 <h3 align="center">I'm a student!</h3>
 
-- 🤝 I’m looking to collaborate on almost anything open-source. Recently I'm into tracking aircraft, like [nitter.net/CopelandJets](https://nitter.net/CopelandJets) and [nitter.net/HuntsmanJet](https://nitter.net/huntsmanJet)
+- 🤝 I’m looking to collaborate on almost anything open-source.
 
 - 🌱 I’m currently learning C++
-<!--
-- 🔨 I’m currently working on [school](https://davisTech.edu)
 
-- 🤝 I’m looking for help with [school](https://davisTech.edu)
+- 🔨 I’m currently working on [nitter.net/CopelandJets](https://nitter.net/CopelandJets) and [nitter.net/HuntsmanJet](https://nitter.net/huntsmanJet)
+
+- 🤝 I’m looking for help with [nitter.net/CopelandJets](https://nitter.net/CopelandJets) and [nitter.net/HuntsmanJet](https://nitter.net/huntsmanJet)
+
+<!--
+this is an area/something i want to leave commented out for now
 -->
 - 📫 How to reach me **bellKevin@pm.me**
 
