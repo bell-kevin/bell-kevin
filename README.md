@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning C++
 
-- 🔨 I’m currently working on [nitter.net/CopelandJets](https://nitter.net/CopelandJets) and [nitter.net/HuntsmanJet](https://nitter.net/huntsmanJet)
+- 🔨 I’m currently working on [twitter.com/CopelandJets](https://nitter.net/CopelandJets) and [twitter.com/HuntsmanJet](https://nitter.net/huntsmanJet)
 
 - 🤝 I’m looking for help with [nitter.net/CopelandJets](https://nitter.net/CopelandJets) and [nitter.net/HuntsmanJet](https://nitter.net/huntsmanJet)
 
