@@ -3,7 +3,7 @@
 
 - 🤝 I’m looking to collaborate on almost anything open-source.
 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning PHP
 
 - 🔨 I’m currently working on [twitter.com/CopelandJets](https://twitter.com/CopelandJets) and [twitter.com/HuntsmanJet](https://twitter.com/huntsmanJet)
 
