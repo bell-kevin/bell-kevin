@@ -7,7 +7,7 @@
 
 - 🔨 I’m currently working on [nitter.net/HuntsmanJet](https://nitter.net/huntsmanJet)
 
-- 🤝 I’m looking for help with [nitter.net/CopelandJets](https://nitter.net/CopelandJets)
+- 🤝 I’m looking for help with my email server
 
 <!--
 this is an area/something i want to leave commented out for now
