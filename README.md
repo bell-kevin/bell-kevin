@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning PHP
 
-- 🔨 I’m currently working on [twitter.com/CopelandJets](https://twitter.com/CopelandJets) and [twitter.com/HuntsmanJet](https://twitter.com/huntsmanJet)
+- 🔨 I’m currently working on [nitter.net/HuntsmanJet](https://nitter.net/huntsmanJet)
 
-- 🤝 I’m looking for help with [nitter.net/CopelandJets](https://nitter.net/CopelandJets) and [nitter.net/HuntsmanJet](https://nitter.net/huntsmanJet)
+- 🤝 I’m looking for help with [nitter.net/CopelandJets](https://nitter.net/CopelandJets)
 
 <!--
 this is an area/something i want to leave commented out for now
