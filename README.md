@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning PHP
 
-- 🔨 I’m currently working on [nitter.net/HuntsmanJet](https://nitter.net/huntsmanJet)
+- 🔨 I’m currently working on [nitter.hostux.net/HuntsmanJet](https://nitter.hostux.net/huntsmanjet)
 
 - 🤝 I’m looking for help with how to delay a tweet by 24 hours
 
