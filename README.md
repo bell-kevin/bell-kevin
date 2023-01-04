@@ -7,7 +7,7 @@
 
 - 🔨 I’m currently working on [nitter.net/HuntsmanJet](https://nitter.net/huntsmanJet)
 
-- 🤝 I’m looking for help with my email server
+- 🤝 I’m looking for help with how to delay a tweet by 24 hours
 
 <!--
 this is an area/something i want to leave commented out for now
