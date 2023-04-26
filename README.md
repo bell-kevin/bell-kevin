@@ -3,11 +3,11 @@
 
 - 🤝 I’m looking to collaborate on almost anything open-source.
 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning ECMAScript
 
 - 🔨 I’m currently working on [nitter.hostux.net/HuntsmanJet](https://nitter.hostux.net/huntsmanjet)
 
-- 🤝 I’m looking for help with how to delay a tweet by 24 hours
+- 🤝 I’m looking for a paid job
 
 <!--
 this is an area/something i want to leave commented out for now
