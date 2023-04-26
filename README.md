@@ -3,7 +3,7 @@
 
 - 🤝 I’m looking to collaborate on almost anything open-source.
 
-- 🌱 I’m currently learning ECMAScript
+- 🌱 I’m currently learning ECMAScript 6+ (ES6+)
 
 - 🔨 I’m currently working on [nitter.hostux.net/HuntsmanJet](https://nitter.hostux.net/huntsmanjet)
 
