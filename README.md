@@ -7,11 +7,14 @@
 
 - 🔨 I’m currently working on [nitter.hostux.net/HuntsmanJet](https://nitter.hostux.net/huntsmanjet)
 
+<!-- 
 - 🤝 I’m looking for help with finding free awesome projects to make to put on GitHub.
+-->
 
 <!--
 this is an area/something i want to leave commented out for now
 -->
+
 - 📫 How to reach me **bellKevin@pm.me** or https://mastodon.social/@kevinBell
 
 
