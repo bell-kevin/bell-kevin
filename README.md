@@ -3,7 +3,7 @@
 
 - 🤝 I’m looking to collaborate on almost anything open-source.
 
-- 🌱 I’m currently learning more in-depth SQL
+- 🌱 I’m currently learning SQLite
 
 - 🔨 I’m currently working on [nitter.hostux.net/HuntsmanJet](https://nitter.hostux.net/huntsmanjet)
 
