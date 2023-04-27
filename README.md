@@ -7,7 +7,7 @@
 
 - 🔨 I’m currently working on [nitter.hostux.net/HuntsmanJet](https://nitter.hostux.net/huntsmanjet)
 
-- 🤝 I’m looking for a paid job
+- 🤝 I’m looking for help with finding awesome free projects to practice and put on GitHub.
 
 <!--
 this is an area/something i want to leave commented out for now
