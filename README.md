@@ -3,9 +3,11 @@
 
 - 🤝 I’m looking to collaborate on almost anything open-source.
 
-- 🌱 I’m currently learning SQLite
+<!-- 
+- 🌱 I’m currently learning...
+-->
 
-- 🔨 I’m currently working on [nitter.hostux.net/HuntsmanJet](https://nitter.hostux.net/huntsmanjet)
+- 🔨 I’m currently working on my Computer Science degree.
 
 <!-- 
 - 🤝 I’m looking for help with finding free awesome projects to make to put on GitHub.
