@@ -9,6 +9,8 @@
 
 - 🔨 I’m currently working on my Computer Science degree.
 
+- ✈️ My plane tracker bot: https://nitter.hostux.net/huntsmanjet
+
 <!-- 
 - 🤝 I’m looking for help with finding free awesome projects to make to put on GitHub.
 -->
