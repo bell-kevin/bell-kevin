@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning...
 -->
 
-- 🔨 I’m currently working on my Computer Science degree.
+- 🔨 I’m currently working on my machine learning home cloud server using Ubuntu Server, Nextcloud, and Tailscale.
 
 <!-- 
 - ✈️ My plane tracker bot: https://nitter.net/huntsmanjet
