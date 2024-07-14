@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning...
 -->
 
-- 🔨 I’m working on my machine learning home cloud server using Ubuntu Server, Nextcloud, Tailscale VPN, and TensorFlow
+- 🔨 I’m working on my machine learning home cloud server using Ubuntu Server, Nextcloud, Tailscale VPN, & TensorFlow.js
 
 <!-- 
 - ✈️ My plane tracker bot: https://nitter.net/huntsmanjet
