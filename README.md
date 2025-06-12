@@ -57,7 +57,7 @@ this is an area/something i want to leave commented out for now
 
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
+<!--
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
@@ -103,7 +103,7 @@ this is an area/something i want to leave commented out for now
 
 
 
-
+-->
 
 
 
