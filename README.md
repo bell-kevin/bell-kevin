@@ -110,7 +110,7 @@ this is an area/something i want to leave commented out for now
 
 
 
-### I love free/libre open-source software! Most JavaScript running on most websites (including GitHub.com) is NOT open-source software.
+I love free/libre open-source software! Most JavaScript running on most websites (including GitHub.com) is NOT open-source software.
 
 
 <!--
