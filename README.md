@@ -20,9 +20,9 @@
 <!--
 this is an area/something i want to leave commented out for now
 -->
-
+<!--
 - 📫 How to reach me **bellKevin@pm.me** or https://mastodon.social/@kevinBell
-
+-->
 
 
 
