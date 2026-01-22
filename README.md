@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Kevin Bell</h1>
+<h1 align="center">Computer Science Graduate Student</h1>
+<!--
 <h3 align="center">I'm a graduate student!</h3>
+-->
 
-- 🤝 I’m looking to collaborate on almost anything open-source.
+- Looking to collaborate on almost anything open-source
 
 <!-- 
 - 🌱 I’m currently learning...
 -->
 
-- 🔨 I’m working on my machine-learning home-cloud server using Ubuntu Server, Nextcloud, & Tailscale VPN
+- Working on my machine-learning home-cloud server using Ubuntu Server, Nextcloud, & Tailscale VPN
 
 <!-- 
 - ✈️ My plane tracker bot: https://nitter.net/huntsmanjet
