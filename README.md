@@ -1,4 +1,4 @@
-<h1 align="center">Computer Science Graduate Student</h1>
+<h1 align="center">Master's Degree in Computer Science</h1>
 <!--
 <h3 align="center">I'm a graduate student!</h3>
 -->
