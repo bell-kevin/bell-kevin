@@ -1,4 +1,9 @@
-<h1 align="center">Master's Degree in Computer Science</h1>
+Software Engineer @ United States Department of War
+
+<h1 align="center">Software Engineer @ United States Department of War</h1>
+
+<h2 align="center">Master's Degree in Computer Science</h2>
+
 <!--
 <h3 align="center">I'm a graduate student!</h3>
 -->
