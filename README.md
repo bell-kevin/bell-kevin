@@ -1,5 +1,3 @@
-Software Engineer @ United States Department of War
-
 <h1 align="center">Software Engineer @ United States Department of War</h1>
 
 <h2 align="center">Master's Degree in Computer Science</h2>
