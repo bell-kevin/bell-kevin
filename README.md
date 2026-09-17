@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning...
 -->
 
-- Working on my machine-learning home-cloud server using Ubuntu Server, Nextcloud, & Tailscale VPN
+- Working on my self-hosted private AI workspace on owned Ubuntu hardware.
 
 <!-- 
 - ✈️ My plane tracker bot: https://nitter.net/huntsmanjet
