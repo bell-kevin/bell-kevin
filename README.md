@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning...
 -->
 
-- Working on my self-hosted private AI workspace on owned Ubuntu hardware.
+- Working on my self-hosted private AI workspace on owned Ubuntu hardware
 
 <!-- 
 - ✈️ My plane tracker bot: https://nitter.net/huntsmanjet
